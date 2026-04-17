@@ -1,7 +1,7 @@
 # FocalTech FTE3600 on KVADRA NAU LE14U (Ubuntu 25.10)
 
 ![GitHub Release](https://img.shields.io/github/v/release/Onix-tech/fte3600-kvadra-notes)
-![GitHub License](https://img.shields.io/github/license/Onix-tech/fte3600-kvadra-notes)
+![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
 Tested setup notes, troubleshooting, and install helper for the FocalTech FTE3600 fingerprint sensor on KVADRA NAU LE14U running Ubuntu 25.10.
 
