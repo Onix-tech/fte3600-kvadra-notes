@@ -5,6 +5,13 @@ Tested setup notes, troubleshooting, and install helper for the FocalTech FTE360
 English version: [README_EN.md](README_EN.md)  
 Russian version: [README_RU.md](README_RU.md)
 
+## Repository contents
+
+- `README.md` — main project overview
+- `README_EN.md` — full English guide
+- `README_RU.md` — full Russian guide
+- `fte3600_kvadra_install.sh` — helper install/repair script
+
 > This repository is based on the original work from **vobademi/FTEXX00-Ubuntu**.  
 > Original project: https://github.com/vobademi/FTEXX00-Ubuntu
 >
